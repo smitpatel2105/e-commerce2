@@ -17,11 +17,7 @@ class Nav extends Component {
                 Home
               </Link>
             </li>
-            <li className="nav-item">
-              <Link className="nav-link" to="/form">
-                Form
-              </Link>
-            </li>
+
             <li className="nav-item">
               <Link className="nav-link" to="/page3">
                 Page 3
